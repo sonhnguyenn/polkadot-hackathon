@@ -1,0 +1,4 @@
+Deploying Solidity Contract On Plasm Network
+
+contract address:
+YNJx5m3uaLDqYmPupRRuY96JbbBKVrNFkEPGgKNTXqjB5d3

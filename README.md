@@ -11,11 +11,11 @@ Done:
 [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
 [INTERMEDIATE CHALLENGE] Forkless Upgrades
 [INTERMEDIATE CHALLENGE] FRAME Identity: Set An Identity On A Local --Dev Chain
+[ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam
+[ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
 
 Ongoing:
 [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network
-[ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
-[ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam
 
 [INTERMEDIATE CHALLENGE] FRAME Development
 [INTERMEDIATE CHALLENGE] FRAME Multisig

@@ -26,9 +26,9 @@
 
 [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
 
-### Ongoing:
-
 [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network
+
+### Ongoing:
 
 [ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts
 

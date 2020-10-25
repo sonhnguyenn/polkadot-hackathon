@@ -16,16 +16,18 @@ Done:
 
 Ongoing:
 [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network
+[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts
+[ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator
 
+3/5:
 [INTERMEDIATE CHALLENGE] FRAME Development
 [INTERMEDIATE CHALLENGE] FRAME Multisig
 [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
-[INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network
 [ECOSYSTEM CHALLENGE] Enable NFT Support
 [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support
 
+impossible:
+[INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network
 [ADVANCED CHALLENGE] Build A DApp
 [ADVANCED CHALLENGE] Smart Contracts - Build A Charity Raffle
-[ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator
-[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts
 [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract

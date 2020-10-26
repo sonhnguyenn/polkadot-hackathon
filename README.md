@@ -35,22 +35,22 @@
 [ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator
 
 ### target:
-[INTERMEDIATE CHALLENGE] FRAME Development
-
-[INTERMEDIATE CHALLENGE] FRAME Multisig
-
-[INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
-
 [ECOSYSTEM CHALLENGE] Enable NFT Support
 
 [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support
+
+[INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
+
+[INTERMEDIATE CHALLENGE] FRAME Development
+
+[INTERMEDIATE CHALLENGE] FRAME Multisig
 
 ### impossible:
 
 [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network
 
-[ADVANCED CHALLENGE] Build A DApp
-
 [ADVANCED CHALLENGE] Smart Contracts - Build A Charity Raffle
+
+[ADVANCED CHALLENGE] Build A DApp
 
 [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract

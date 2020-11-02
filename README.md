@@ -39,11 +39,11 @@
 
 28 [INTERMEDIATE CHALLENGE] FRAME Development
 
+22 [INTERMEDIATE CHALLENGE] FRAME Multisig
+
 25 [ECOSYSTEM CHALLENGE] Enable NFT Support
 
 25 [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support
-
-22 [INTERMEDIATE CHALLENGE] FRAME Multisig
 
 11 [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network
 

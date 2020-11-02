@@ -30,27 +30,25 @@
 
 ### Ongoing:
 
-[ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts
+13 [ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts
 
-[ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator
+3 [ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator
 
 ### target:
-[ECOSYSTEM CHALLENGE] Enable NFT Support
+38 [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
 
-[ECOSYSTEM CHALLENGE] Enable Multi-Currency Support
+28 [INTERMEDIATE CHALLENGE] FRAME Development
 
-[INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
+25 [ECOSYSTEM CHALLENGE] Enable NFT Support
 
-[INTERMEDIATE CHALLENGE] FRAME Development
+25 [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support
 
-[INTERMEDIATE CHALLENGE] FRAME Multisig
+22 [INTERMEDIATE CHALLENGE] FRAME Multisig
 
-### impossible:
+11 [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network
 
-[INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network
+7 [ADVANCED CHALLENGE] Smart Contracts - Build A Charity Raffle
 
-[ADVANCED CHALLENGE] Smart Contracts - Build A Charity Raffle
+3 [ADVANCED CHALLENGE] Build A DApp
 
-[ADVANCED CHALLENGE] Build A DApp
-
-[ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract
+7 [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract

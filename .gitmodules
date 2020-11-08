@@ -1,0 +1,9 @@
+[submodule "frame-development/substrate-frontend-template"]
+	path = frame-development/substrate-frontend-template
+	url = https://github.com/sonhnguyenn/substrate-front-end-template.git
+	branch = frame-development
+
+[submodule "frame-development/substrate-node-template"]
+	path = frame-development/substrate-node-template
+	url = https://github.com/sonhnguyenn/substrate-node-template.git
+	branch = frame-development

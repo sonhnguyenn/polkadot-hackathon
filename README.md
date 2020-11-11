@@ -32,18 +32,18 @@
 
 [INTERMEDIATE CHALLENGE] FRAME Multisig
 
-25 [ECOSYSTEM CHALLENGE] Enable NFT Support
+[ECOSYSTEM CHALLENGE] Enable NFT Support
 
-### Ongoing:
+[ECOSYSTEM CHALLENGE] Enable Multi-Currency Support
 
 13 [ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts
+
+### Ongoing:
 
 3 [ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator
 
 ### target:
 38 [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
-
-25 [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support
 
 11 [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network
 

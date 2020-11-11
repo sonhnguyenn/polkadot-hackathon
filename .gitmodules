@@ -7,3 +7,13 @@
 	path = frame-development/substrate-node-template
 	url = https://github.com/sonhnguyenn/substrate-node-template.git
 	branch = frame-development
+
+[submodule "frame-multisig/substrate-frontend-template"]
+	path = frame-multisig/substrate-frontend-template
+	url = https://github.com/sonhnguyenn/substrate-front-end-template.git
+	branch = frame-multisig
+
+[submodule "frame-multisig/substrate-node-template"]
+	path = frame-multisig/substrate-node-template
+	url = https://github.com/sonhnguyenn/substrate-node-template.git
+	branch = frame-multisig

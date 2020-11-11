@@ -28,6 +28,10 @@
 
 [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network
 
+[INTERMEDIATE CHALLENGE] FRAME Development
+
+[INTERMEDIATE CHALLENGE] FRAME Multisig
+
 ### Ongoing:
 
 13 [ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts
@@ -36,10 +40,6 @@
 
 ### target:
 38 [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
-
-28 [INTERMEDIATE CHALLENGE] FRAME Development
-
-22 [INTERMEDIATE CHALLENGE] FRAME Multisig
 
 25 [ECOSYSTEM CHALLENGE] Enable NFT Support
 

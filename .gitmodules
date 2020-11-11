@@ -17,3 +17,7 @@
 	path = frame-multisig/substrate-node-template
 	url = https://github.com/sonhnguyenn/substrate-node-template.git
 	branch = frame-multisig
+[submodule "nft-support/substrate-node-template"]
+	path = nft-support/substrate-node-template
+	url = https://github.com/sonhnguyenn/substrate-node-template.git
+	branch = nft-support

@@ -21,3 +21,7 @@
 	path = nft-support/substrate-node-template
 	url = https://github.com/sonhnguyenn/substrate-node-template.git
 	branch = nft-support
+[submodule "multi-currency-support/substrate-node-template"]
+	path = multi-currency-support/substrate-node-template
+	url = https://github.com/sonhnguyenn/substrate-node-template.git
+	branch = multi-currency-support

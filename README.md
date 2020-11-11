@@ -32,6 +32,8 @@
 
 [INTERMEDIATE CHALLENGE] FRAME Multisig
 
+25 [ECOSYSTEM CHALLENGE] Enable NFT Support
+
 ### Ongoing:
 
 13 [ADVANCED CHALLENGE] REST APIs - Read An Account's Pending Payouts
@@ -40,8 +42,6 @@
 
 ### target:
 38 [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
-
-25 [ECOSYSTEM CHALLENGE] Enable NFT Support
 
 25 [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support
 

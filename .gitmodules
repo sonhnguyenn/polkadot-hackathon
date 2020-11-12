@@ -25,3 +25,11 @@
 	path = multi-currency-support/substrate-node-template
 	url = https://github.com/sonhnguyenn/substrate-node-template.git
 	branch = multi-currency-support
+[submodule "ink-contract/substrate-node-template"]
+	path = ink-contract/substrate-node-template
+	url = https://github.com/sonhnguyenn/substrate-node-template.git
+	branch = ink-contract
+[submodule "ink-contract/substrate-front-end-template"]
+	path = ink-contract/substrate-front-end-template
+	url = https://github.com/sonhnguyenn/substrate-front-end-template.git
+	branch = ink-contract

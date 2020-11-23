@@ -22,15 +22,17 @@
 
 [INTERMEDIATE CHALLENGE] FRAME Identity: Set An Identity On A Local --Dev Chain
 
+[INTERMEDIATE CHALLENGE] FRAME Development
+
+[INTERMEDIATE CHALLENGE] FRAME Multisig
+
+[INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
+
 [ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam
 
 [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
 
 [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network
-
-[INTERMEDIATE CHALLENGE] FRAME Development
-
-[INTERMEDIATE CHALLENGE] FRAME Multisig
 
 [ECOSYSTEM CHALLENGE] Enable NFT Support
 
@@ -41,8 +43,6 @@
 ### target:
 
 [ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator
-
-[INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
 
 [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network
 
